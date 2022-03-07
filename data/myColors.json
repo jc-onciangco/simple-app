@@ -1,0 +1,12 @@
+{
+    "normal" : {
+        "black": "rgb(14, 14, 14)",
+        "white": "rgb(210, 210, 210)",
+        "yellow": "#ffd31d"
+    },
+    "dark" : {
+        "blackOne" : "rgb(10,10,10)",
+        "blackTwo" : "rgb(18,18,18)",
+        "accent" : "rgb(20, 12, 58)"
+    }
+}
